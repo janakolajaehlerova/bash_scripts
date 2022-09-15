@@ -1,5 +1,7 @@
 Sorry for czech comments, script are for czech students.
+
 Needs list of text files with questions and answers: 
+
 1.odpovedA.txt
 1.odpovedB.txt
 1.odpovedC.txt
